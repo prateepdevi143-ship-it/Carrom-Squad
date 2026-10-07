@@ -1,0 +1,6 @@
+{
+  "name": "Carrom Clash · Multiplayer Board Game",
+  "description": "Professional digital Carrom board game featuring realistic 2D physics, 2-4 player local matches, AI opponents with three difficulty levels, and real-time online multiplayer rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
